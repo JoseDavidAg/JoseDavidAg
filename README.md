@@ -17,40 +17,22 @@
 
 ## Skills
 
-- **Programming Languages:** Python, JavaScript, Java
+- **Programming Languages:** Java
 - **Web Development:** HTML, CSS
 - **Databases:** MySQL, Postgres
 - **Version Control:** Git, GitHub
-- **Other Tools:** Figma, Trello, Visual Studio Code, NetBeans
+- **Other Tools:** Figma, Trello, Visual Studio Code, NetBeans, Spring Boot 3, Insomnia, Postman
 
 ---
 
 ## Soft Skills
 
 - **Autogestion**
-- **Atención al detalle**
 - **Escucha activa**
+- **Proactivo**
 - **Empatía** 
 
 ---
-
-## Achievements
-
-- 
-- 
-- 
-
-
-
-### 💡 Quote  
-<div align="center">
-  <blockquote>
-    <i>“”</i>  
-    <br>— 
-  </blockquote>
-</div>
-
-</div>
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=danielibanezgc&style=flat-square)
